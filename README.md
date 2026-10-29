@@ -1,8 +1,8 @@
 <p><img src="./assets/studio/cover.svg" width="100%" alt="Cristhian Storm. Software developer. Web, backend y datos. Ideas claras. Sistemas conectados." /></p>
 
 <p align="center">
-  <a href="#proyectos">PROYECTOS</a> &nbsp; / &nbsp;
-  <a href="#tecnologías">TECNOLOGÍAS</a> &nbsp; / &nbsp;
+  <a href="#user-content-proyectos">PROYECTOS</a> &nbsp; / &nbsp;
+  <a href="#user-content-tecnologías">TECNOLOGÍAS</a> &nbsp; / &nbsp;
   <a href="https://github.com/CristhianStorm?tab=repositories">REPOSITORIOS</a>
 </p>
 
