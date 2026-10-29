@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="#proyectos">Explorar proyectos</a> &nbsp; / &nbsp;
-  <a href="#tecnologias">Ver tecnologías</a> &nbsp; / &nbsp;
+  <a href="#proyectos-destacados">Explorar proyectos</a> &nbsp; / &nbsp;
+  <a href="#tecnologías">Ver tecnologías</a> &nbsp; / &nbsp;
   <a href="https://github.com/CristhianStorm?tab=repositories">Repositorios</a>
 </p>
 
@@ -25,8 +25,6 @@
 Me gusta aprender construyendo: desde una interfaz web hasta una API con autenticación y persistencia. En mis repositorios comparto proyectos y prácticas de **desarrollo web, aplicaciones educativas y servicios backend**.
 
 Mi enfoque es entender el problema, organizar el código y mejorar cada solución paso a paso.
-
-<a id="proyectos"></a>
 
 ## Proyectos destacados
 
@@ -92,8 +90,6 @@ Ejercicios para desarrollar la lógica del lado del servidor y reforzar fundamen
 </td>
 </tr>
 </table>
-
-<a id="tecnologias"></a>
 
 ## Tecnologías
 
