@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="455" viewBox="0 0 1000 455" role="img" aria-labelledby="title"><title id="title">Cristhian Storm. Desarrollador web y backend. Portada animada con luces, terminal flotante y texto que se escribe.</title><style>
+.float{animation:float 7s ease-in-out infinite}.float2{animation:float 9s ease-in-out infinite reverse}.orbit{transform-origin:790px 215px;animation:orbit 35s linear infinite}.blink{animation:blink 1.2s steps(2,end) infinite}.signal{animation:signal 4s ease-in-out infinite}.flow{stroke-dasharray:12 20;animation:flow 5s linear infinite}.type{animation:type 8s steps(32,end) infinite}.reveal{animation:reveal 5s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes blink{50%{opacity:0}}@keyframes signal{0%,100%{opacity:.25}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-256}}@keyframes type{0%,5%{width:0}40%,80%{width:490px}97%,100%{width:0}}@keyframes reveal{0%,100%{opacity:.4}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.float,.float2,.orbit,.blink,.signal,.flow,.type,.reveal{animation:none}}
+</style><defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1026"/><stop offset="1" stop-color="#11132C"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#55E6FA"/><stop offset=".5" stop-color="#9B8AFF"/><stop offset="1" stop-color="#F38AC8"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7947EA" stop-opacity=".35"/><stop offset="1" stop-color="#7947EA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7680B7" stroke-width=".5" opacity=".13"/></pattern>
+<clipPath id="typing"><rect class="type" x="52" y="293" width="490" height="38"/></clipPath>
+</defs>
+<rect width="1000" height="455" rx="24" fill="url(#bg)"/>
+<rect width="1000" height="455" rx="24" fill="url(#grid)"/>
+<circle class="float" cx="780" cy="210" r="300" fill="url(#glow)"/>
+<path d="M28 1H972" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+<rect x="52" y="39" width="233" height="29" rx="14" fill="#19213E" stroke="#35436A"/>
+<circle cx="68" cy="54" r="4" fill="#55E6FA" class="signal"/>
+<text x="82" y="59" font-family="Consolas,monospace" font-size="15" fill="#B9CAED">SOFTWARE DEVELOPER</text>
+<text x="48" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="80" fill="#F1F5FF" font-weight="700" letter-spacing="-3">Cristhian</text>
+<text x="46" y="265" font-family="Segoe UI,Arial,sans-serif" font-size="112" fill="url(#accent)" font-weight="750" letter-spacing="-5">Storm</text>
+<g clip-path="url(#typing)"><text x="52" y="320" font-family="Consolas,monospace" font-size="25" fill="#A9AEFF">Java / Spring Boot / Python</text></g>
+<text x="52" y="362" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#B6C1DB" >Conectando ideas, código y datos.</text>
+<text x="52" y="414" font-family="Consolas,monospace" font-size="16" fill="#697FA9">DESARROLLO WEB + BACKEND</text>
+<g class="orbit" fill="none" stroke="#7589E5"><circle cx="790" cy="215" r="168" stroke-dasharray="2 16" opacity=".4"/><circle cx="958" cy="215" r="5" fill="#64DBFA" stroke="none"/></g>
+<g class="float">
+<rect x="642" y="101" width="298" height="228" rx="16" fill="#0D1530" stroke="#57578E" stroke-width="1.5"/>
+<path d="M658 101H924Q940 101 940 117V140H642V117Q642 101 658 101" fill="#202748"/>
+<circle cx="660" cy="121" r="4" fill="#F38AC8"/><circle cx="676" cy="121" r="4" fill="#9B8AFF"/><circle cx="692" cy="121" r="4" fill="#55E6FA"/>
+<text x="719" y="126" font-family="Consolas,monospace" font-size="13" fill="#BCC8E8">storm.dev</text>
+<text x="663" y="178" font-family="Consolas,monospace" font-size="16" fill="#A99AFF">const developer = {</text>
+<text x="681" y="211" font-family="Consolas,monospace" font-size="15" fill="#70DDED">focus: 'web + backend',</text>
+<text x="681" y="244" font-family="Consolas,monospace" font-size="15" fill="#A7B9DF">mindset: 'build &amp; learn'</text>
+<text x="663" y="277" font-family="Consolas,monospace" font-size="16" fill="#A99AFF">};</text>
+<rect x="664" y="294" width="10" height="17" rx="1" fill="#55E6FA" class="blink"/>
+<path d="M625 339H957L979 354Q980 363 966 363H615Q600 363 602 354Z" fill="#222C50" stroke="#53638E"/>
+<path d="M748 339H835L829 348H755Z" fill="#10182F"/>
+</g>
+<g class="float2"><rect x="594" y="78" width="64" height="54" rx="13" fill="#152B42" stroke="#357B94"/><text x="604" y="114" font-family="Consolas,monospace" font-size="25" fill="#65DFF4">&lt;/&gt;</text></g>
+<g class="float2"><rect x="883" y="325" width="80" height="49" rx="12" fill="#292149" stroke="#785DAF"/><text x="903" y="356" font-family="Consolas,monospace" font-size="21" fill="#CBB6FE">API</text></g>
+<path class="flow" d="M579 399C703 350 840 430 950 395" stroke="url(#accent)" stroke-width="2" fill="none"/>
+<circle cx="573" cy="399" r="4" fill="#55E6FA"/><circle cx="952" cy="395" r="4" fill="#F38AC8"/>
+</svg>

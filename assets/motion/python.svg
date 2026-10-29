@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-labelledby="title"><title id="title">Python en práctica. Lógica, servicios web y datos.. Python / SQL / Docker. Tarjeta animada.</title><style>
+.float{animation:float 7s ease-in-out infinite}.float2{animation:float 9s ease-in-out infinite reverse}.orbit{transform-origin:790px 215px;animation:orbit 35s linear infinite}.blink{animation:blink 1.2s steps(2,end) infinite}.signal{animation:signal 4s ease-in-out infinite}.flow{stroke-dasharray:12 20;animation:flow 5s linear infinite}.type{animation:type 8s steps(32,end) infinite}.reveal{animation:reveal 5s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes blink{50%{opacity:0}}@keyframes signal{0%,100%{opacity:.25}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-256}}@keyframes type{0%,5%{width:0}40%,80%{width:490px}97%,100%{width:0}}@keyframes reveal{0%,100%{opacity:.4}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.float,.float2,.orbit,.blink,.signal,.flow,.type,.reveal{animation:none}}
+</style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151E3C"/><stop offset="1" stop-color="#10162B"/></linearGradient><linearGradient id="edge"><stop stop-color="#78BBFA"/><stop offset="1" stop-color="#9674FC"/></linearGradient></defs>
+<rect x="1" y="1" width="478" height="248" rx="20" fill="url(#bg)" stroke="#2B3655"/>
+<path d="M23 1H457" stroke="url(#edge)" stroke-width="2" class="flow"/>
+<circle cx="409" cy="62" r="24" fill="#78BBFA" opacity=".09" class="signal"/>
+<g class="float2" fill="none" stroke="#78BBFA" stroke-width="2"><path d="M387 79L398 60L411 72L430 49"/><circle cx="398" cy="60" r="4" fill="#151E3C"/><circle cx="411" cy="72" r="4" fill="#151E3C"/></g>
+<text x="28" y="44" font-family="Consolas,monospace" font-size="14" fill="#78BBFA">03 / LABORATORIO</text>
+<text x="26" y="110" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#EBF1FF" font-weight="650" letter-spacing="-1">Python en práctica</text>
+<text x="28" y="149" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#A0B1D0" >Lógica, servicios web y datos.</text>
+<path d="M28 177H452" stroke="#2D3653"/>
+<text x="28" y="208" font-family="Consolas,monospace" font-size="15" fill="#B4BFE2">Python / SQL / Docker</text>
+<text x="28" y="232" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#78BBFA" >Explorar código</text>
+<path d="M423 214H442M436 208L442 214L436 220" fill="none" stroke="#78BBFA" stroke-width="1.5" class="reveal"/>
+</svg>
