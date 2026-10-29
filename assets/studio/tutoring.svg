@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title"><title id="title">01. Sistema de tutorías. Java 17, Spring Boot, Security y JPA.</title><rect width="1000" height="340" rx="4" fill="#151615"/><text x="48" y="46" font-family="Consolas,monospace" font-size="16" fill="#EC784A" letter-spacing="2">PROYECTO 01 / EDUCACIÓN</text>
+<text x="45" y="125" font-family="Arial,Helvetica,sans-serif" font-size="57" fill="#F0EDE4" font-weight="700" letter-spacing="-2">Sistema de</text>
+<text x="45" y="190" font-family="Arial,Helvetica,sans-serif" font-size="64" fill="#F0EDE4" font-weight="700" letter-spacing="-2">tutorías.</text>
+<text x="48" y="240" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#A4A69E" >Estudiantes, docentes y seguimiento.</text>
+<path d="M48 272H952" stroke="#353832"/>
+<text x="48" y="310" font-family="Consolas,monospace" font-size="17" fill="#A4A69E" letter-spacing="2">JAVA 17 / SPRING BOOT / SECURITY / JPA</text>
+<g transform="translate(720 81)" fill="none" stroke="#353832" stroke-width="2">
+<rect width="220" height="144" rx="8"/><path d="M0 35H220M68 35V144M83 58H199M83 81H171M83 105H187"/>
+<circle cx="19" cy="18" r="3" fill="#EC784A" stroke="none"/>
+<rect x="15" y="51" width="36" height="28" rx="4" stroke="#EC784A"/>
+<path d="M15 95H50M15 111H40"/>
+</g></svg>
