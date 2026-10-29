@@ -1,91 +1,142 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Cristhian Storm · Desarrollador de software · Web y backend" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Cristhian Storm — Desarrollo web y backend. Construir, aprender, mejorar." />
 </p>
 
 <p align="center">
-  <b>Hola, soy Cristhian 👋</b><br />
-  Desarrollo aplicaciones web y exploro el backend con Java, Python y PHP.<br />
-  Me gusta entender cómo funcionan las cosas y convertir lo aprendido en proyectos.
+  <b>Hola, soy Cristhian 👋 · Software Developer</b><br />
+  Desarrollo aplicaciones web y proyectos de backend con Java, Spring Boot y Python.<br />
+  Me interesa convertir necesidades en soluciones que conecten interfaces, lógica y datos.
 </p>
 
 <p align="center">
-  <a href="#-proyectos-destacados">Proyectos</a> &nbsp;·&nbsp;
-  <a href="#-tecnologías">Tecnologías</a> &nbsp;·&nbsp;
-  <a href="https://github.com/CristhianStorm?tab=repositories">Todos mis repositorios</a>
+  <a href="#proyectos">Explorar proyectos</a> &nbsp; / &nbsp;
+  <a href="#tecnologias">Ver tecnologías</a> &nbsp; / &nbsp;
+  <a href="https://github.com/CristhianStorm?tab=repositories">Repositorios</a>
 </p>
 
 ---
 
-### ⚡ Sobre mí
+### Sobre mí
 
-- Construyo proyectos que conectan interfaces, lógica de negocio y datos.
-- Mi trabajo público incluye un sistema de tutorías, una API de productos y prácticas de programación.
-- Aprendo creando: desarrollo, pruebo y mejoro cada solución paso a paso.
+Me gusta aprender construyendo: desde una interfaz web hasta una API con autenticación y persistencia. En mis repositorios comparto proyectos y prácticas de **desarrollo web, aplicaciones educativas y servicios backend**.
 
-### 🧰 Tecnologías
+Mi enfoque es entender el problema, organizar el código y mejorar cada solución paso a paso.
 
-| Área | Tecnologías presentes en mis proyectos |
-| :--- | :--- |
-| **Frontend** | HTML · CSS · JavaScript |
-| **Backend** | Java · Spring Boot · Python · PHP |
-| **Datos y persistencia** | SQL · Spring Data JPA |
-| **Herramientas** | Git · GitHub · Maven · Docker |
+<a id="proyectos"></a>
 
-### 🚀 Proyectos destacados
+## Proyectos destacados
+
+### 🎓 Sistema de tutorías online
+
+Una aplicación para organizar la interacción entre estudiantes y docentes.
+
+- **Acceso y usuarios:** autenticación con JWT y gestión de roles.
+- **Comunicación:** consultas, foros y archivos adjuntos.
+- **Seguimiento:** informes de las sesiones de tutoría.
+
+`Java 17` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `Oracle`
+
+**[Explorar código →](https://github.com/CristhianStorm/Curso-sincronico)**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 Sistema de tutorías online
-Aplicación para gestionar tutorías, con autenticación, roles, consultas, foros y generación de informes.
+### 📦 API de productos
 
-**Java 17 · Spring Boot · Spring Security · JPA**
+Práctica de backend con separación en controladores, servicios y repositorios.
 
-[Explorar el proyecto →](https://github.com/CristhianStorm/Curso-sincronico)
+**Java · Spring Boot · Maven**
+
+[Ver API →](https://github.com/CristhianStorm/java/tree/main/CrusoJava/curso_java-main/productoapi)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📦 API de productos
-Proyecto de práctica con controladores, servicios y repositorios para organizar una API en capas.
+### 🐍 Laboratorio de Python
 
-**Java · Spring Boot · Maven**
+Ejercicios de lógica, servicios web, consultas SQL y entornos con Docker.
 
-[Explorar el proyecto →](https://github.com/CristhianStorm/java/tree/main/CrusoJava/curso_java-main/productoapi)
+**Python · SQL · Docker**
+
+[Ver prácticas →](https://github.com/CristhianStorm/Python)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🐍 Laboratorio de Python
-Ejercicios y prácticas de lógica, funciones, aplicaciones web y entornos con Docker.
+### 🌐 Interfaces web
 
-**Python · SQL · Docker**
+Prácticas de maquetación y programación en el navegador con HTML, CSS y JavaScript.
 
-[Explorar el proyecto →](https://github.com/CristhianStorm/Python)
+**HTML · CSS · JavaScript**
+
+[Explorar interfaces →](https://github.com/CristhianStorm/CristhianStorm.github.io)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌐 Desarrollo web
-Interfaces y prácticas con HTML, CSS y JavaScript, junto con ejercicios de PHP.
+### 🛠️ Prácticas de PHP
 
-**HTML · CSS · JavaScript · PHP**
+Ejercicios para desarrollar la lógica del lado del servidor y reforzar fundamentos web.
 
-[Interfaces web →](https://github.com/CristhianStorm/CristhianStorm.github.io) &nbsp;·&nbsp; [Prácticas PHP →](https://github.com/CristhianStorm/PHP)
+**PHP · HTML**
+
+[Ver ejercicios →](https://github.com/CristhianStorm/PHP)
 
 </td>
 </tr>
 </table>
 
-### 🌱 Lo que sigo explorando
+<a id="tecnologias"></a>
 
-Diseño de APIs, autenticación, organización del código y conexión de aplicaciones con bases de datos.
+## Tecnologías
+
+Herramientas y lenguajes presentes en mis proyectos públicos.
+
+**Backend y datos**
+
+<p>
+  <img src="./assets/badges/java.svg" alt="Java" height="30" />
+  <img src="./assets/badges/spring-boot.svg" alt="Spring Boot" height="30" />
+  <img src="./assets/badges/python.svg" alt="Python" height="30" />
+  <img src="./assets/badges/php.svg" alt="PHP" height="30" />
+  <img src="./assets/badges/sql.svg" alt="SQL" height="30" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="./assets/badges/html.svg" alt="HTML" height="30" />
+  <img src="./assets/badges/css.svg" alt="CSS" height="30" />
+  <img src="./assets/badges/javascript.svg" alt="JavaScript" height="30" />
+</p>
+
+**Herramientas**
+
+<p>
+  <img src="./assets/badges/git.svg" alt="Git" height="30" />
+  <img src="./assets/badges/maven.svg" alt="Maven" height="30" />
+  <img src="./assets/badges/docker.svg" alt="Docker" height="30" />
+</p>
+
+### En lo que sigo profundizando
+
+Diseño de APIs · Autenticación y autorización · Persistencia de datos · Organización del código
+
+<details>
+<summary><b>English introduction</b></summary>
+
+Hi, I'm Cristhian. I build web applications and backend projects with Java, Spring Boot and Python. My public repositories include an online tutoring system, a product API, web interfaces and programming exercises.
+
+I enjoy connecting user interfaces, application logic and data, while learning through hands-on projects.
+
+</details>
 
 ---
 
 <p align="center">
-  <sub><b>Construir. Aprender. Mejorar.</b><br />Gracias por visitar mi perfil.</sub>
+  <b>De la idea al código. Del código al aprendizaje.</b><br />
+  <sub>Gracias por visitar mi perfil · <a href="https://github.com/CristhianStorm?tab=repositories">Explorá lo que estoy construyendo</a></sub>
 </p>
