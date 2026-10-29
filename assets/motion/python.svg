@@ -5,7 +5,7 @@
 </style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151E3C"/><stop offset="1" stop-color="#10162B"/></linearGradient><linearGradient id="edge"><stop stop-color="#78BBFA"/><stop offset="1" stop-color="#9674FC"/></linearGradient></defs>
 <rect x="1" y="1" width="478" height="248" rx="20" fill="url(#bg)" stroke="#2B3655"/>
 <path d="M23 1H457" stroke="url(#edge)" stroke-width="2" class="flow"/>
-<circle cx="409" cy="62" r="24" fill="#78BBFA" opacity=".09" class="signal"/>
+<circle cx="409" cy="62" r="24" fill="#78BBFA" opacity=".09"/>
 <g class="float2" fill="none" stroke="#78BBFA" stroke-width="2"><path d="M387 79L398 60L411 72L430 49"/><circle cx="398" cy="60" r="4" fill="#151E3C"/><circle cx="411" cy="72" r="4" fill="#151E3C"/></g>
 <text x="28" y="44" font-family="Consolas,monospace" font-size="14" fill="#78BBFA">03 / LABORATORIO</text>
 <text x="26" y="110" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#EBF1FF" font-weight="650" letter-spacing="-1">Python en práctica</text>

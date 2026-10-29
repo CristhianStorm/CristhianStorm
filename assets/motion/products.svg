@@ -5,7 +5,7 @@
 </style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151E3C"/><stop offset="1" stop-color="#10162B"/></linearGradient><linearGradient id="edge"><stop stop-color="#AB9AFF"/><stop offset="1" stop-color="#9674FC"/></linearGradient></defs>
 <rect x="1" y="1" width="478" height="248" rx="20" fill="url(#bg)" stroke="#2B3655"/>
 <path d="M23 1H457" stroke="url(#edge)" stroke-width="2" class="flow"/>
-<circle cx="409" cy="62" r="24" fill="#AB9AFF" opacity=".09" class="signal"/>
+<circle cx="409" cy="62" r="24" fill="#AB9AFF" opacity=".09"/>
 <g class="float2" fill="none" stroke="#AB9AFF" stroke-width="2"><path d="M397 51L386 64L397 77M420 51L431 64L420 77M414 48L403 80"/></g>
 <text x="28" y="44" font-family="Consolas,monospace" font-size="14" fill="#AB9AFF">02 / BACKEND</text>
 <text x="26" y="110" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#EBF1FF" font-weight="650" letter-spacing="-1">API de productos</text>
