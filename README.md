@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=42&amp;lines=Desarrollo+web+y+backend;Java+%C2%B7+Spring+Boot+%C2%B7+Python;Construir.+Aprender.+Mejorar." width="440" alt="Texto animado: Desarrollo web y backend · Java, Spring Boot y Python · Construir. Aprender. Mejorar." />
+</p>
+
+<p align="center">
   <b>Hola, soy Cristhian 👋 · Software Developer</b><br />
   Desarrollo aplicaciones web y proyectos de backend con Java, Spring Boot y Python.<br />
   Me interesa convertir necesidades en soluciones que conecten interfaces, lógica y datos.
@@ -98,28 +102,26 @@ Herramientas y lenguajes presentes en mis proyectos públicos.
 **Backend y datos**
 
 <p>
-  <img src="./assets/badges/java.svg" alt="Java" height="30" />
-  <img src="./assets/badges/spring-boot.svg" alt="Spring Boot" height="30" />
-  <img src="./assets/badges/python.svg" alt="Python" height="30" />
-  <img src="./assets/badges/php.svg" alt="PHP" height="30" />
-  <img src="./assets/badges/sql.svg" alt="SQL" height="30" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php&amp;theme=dark" height="48" alt="Java, Spring y Spring Boot, Python y PHP" />
 </p>
+
+Java · Spring Boot · Python · PHP · SQL · Spring Data JPA
 
 **Frontend**
 
 <p>
-  <img src="./assets/badges/html.svg" alt="HTML" height="30" />
-  <img src="./assets/badges/css.svg" alt="CSS" height="30" />
-  <img src="./assets/badges/javascript.svg" alt="JavaScript" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&amp;theme=dark" height="48" alt="HTML, CSS y JavaScript" />
 </p>
+
+HTML · CSS · JavaScript
 
 **Herramientas**
 
 <p>
-  <img src="./assets/badges/git.svg" alt="Git" height="30" />
-  <img src="./assets/badges/maven.svg" alt="Maven" height="30" />
-  <img src="./assets/badges/docker.svg" alt="Docker" height="30" />
+  <img src="https://skillicons.dev/icons?i=git,github,maven,docker&amp;theme=dark" height="48" alt="Git, GitHub, Maven y Docker" />
 </p>
+
+Git · GitHub · Maven · Docker
 
 ### En lo que sigo profundizando
 
