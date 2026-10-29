@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Cristhian Storm — Desarrollo web y backend. Construir, aprender, mejorar." />
+  <img src="./assets/storm-banner.svg" width="100%" alt="Cristhian Storm — Desarrollo web y backend. Construir, aprender, mejorar." />
 </p>
 
 <p align="center">
