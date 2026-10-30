@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CristhianStorm">
-    <img src="https://avatars.githubusercontent.com/u/139923558?v=4&amp;s=160" alt="Cristhian Storm" width="110" height="110">
+    <img src="./assets/identity/avatar-cs.png" alt="Monograma CS de Cristhian Storm" width="110" height="110">
   </a>
 
   <h1 align="center">Cristhian Storm</h1>
