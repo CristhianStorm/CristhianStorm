@@ -34,24 +34,40 @@ En mi experiencia práctica trabajo con **sistemas académicos, consultas SQL, r
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/languages-static.png" />
-  <img src="./assets/technologies/languages-marquee.gif" width="100%" alt="Tecnologías en movimiento: Java, C Sharp, Python, PHP, JavaScript, HTML y CSS" />
+  <img src="./assets/technologies/languages-marquee.gif" width="100%" alt="Lenguajes en movimiento: Java, C Sharp, Python, PHP, JavaScript, HTML, CSS y SQL" />
 </picture>
 
-**Frameworks y herramientas**
+**Backend y frameworks**
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/frameworks-static.png" />
-  <img src="./assets/technologies/frameworks-marquee.gif" width="100%" alt="Tecnologías en movimiento: Spring, .NET, Flask, Node.js, Express, Git, Docker y Maven" />
+  <img src="./assets/technologies/frameworks-marquee.gif" width="100%" alt="Backend en movimiento: Spring Boot, .NET, Flask, Node.js, Express, Spring Security, Spring Data JPA, ASP.NET MVC y JWT" />
+</picture>
+
+**Interfaces y videojuegos**
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/ui-static.png" />
+  <img src="./assets/technologies/ui-marquee.gif" width="100%" alt="Herramientas en movimiento: Bootstrap, Tailwind CSS y Unity" />
 </picture>
 
 **Bases de datos**
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/databases-static.png" />
-  <img src="./assets/technologies/databases-marquee.gif" width="100%" alt="Bases de datos en movimiento: MySQL, SQLite, SQL Server y Oracle" />
+  <img src="./assets/technologies/databases-marquee.gif" width="100%" alt="Bases de datos en movimiento: MySQL, SQLite, SQL Server, Oracle y H2" />
+</picture>
+
+**Reportes, herramientas e integraciones**
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/tools-static.png" />
+  <img src="./assets/technologies/tools-marquee.gif" width="100%" alt="Herramientas en movimiento: Git, Docker, Maven, JasperReports, Jaspersoft Studio, Swagger UI, Docker Compose y Jitsi JaaS" />
 </picture>
 
 </div>
+
+> **Área de experiencia práctica:** generación de reportes académicos con **JasperReports / Jaspersoft Studio**, consultas SQL Server y Oracle, integración de datos y desarrollo de sistemas internos.
 
 <a id="proyectos"></a>
 
