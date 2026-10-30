@@ -71,8 +71,6 @@ Spring Security · APIs REST · Spring Data JPA · Programación orientada a obj
 [![Maven][maven-badge]][maven-url]
 [![Docker][docker-badge]][docker-url]
 
-Tecnologías respaldadas por los repositorios públicos enlazados abajo, sin porcentajes ni niveles de dominio.
-
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 ## Proyectos destacados
@@ -118,7 +116,7 @@ Prácticas independientes que van de los fundamentos del lenguaje a servicios we
 
 En tutorías se identifican controladores, servicios, repositorios JPA y entidades; algunos controladores también acceden directamente a repositorios. En la API de productos, el controlador utiliza el repositorio directamente: existe un servicio que todavía no integra ese flujo.
 
-Las funcionalidades se contrastaron con el código público. Los proyectos y prácticas requieren su configuración local; su presencia no implica una demo productiva ni una certificación de seguridad.
+Los proyectos académicos y las prácticas se presentan con su alcance de aprendizaje y requieren la configuración local documentada en cada repositorio.
 
 </details>
 
@@ -131,7 +129,7 @@ Las funcionalidades se contrastaron con el código público. Los proyectos y pr�
 
 ## Intereses
 
-Ingeniería de software, automatización y diseño UI/UX. También exploro el desarrollo de videojuegos con **Unity y C#**, como interés declarado, sin presentar un proyecto público como evidencia.
+Ingeniería de software, automatización, diseño UI/UX y exploración del desarrollo de videojuegos con **Unity y C#**.
 
 ## Conectar
 
