@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cristhian Storm — CS Software Lab</title>
+  <desc id="desc">Portada de perfil en azul medianoche con acentos lima y cian, nombre Cristhian Storm, un monograma CS y área de trabajo Full Stack, Backend y Datos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080e1b"/>
+      <stop offset=".58" stop-color="#0e1a2d"/>
+      <stop offset="1" stop-color="#112e3c"/>
+    </linearGradient>
+    <linearGradient id="heading" x1="0" y1="0" x2="1" y2=".7">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#a6c7d8"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b7ff65"/>
+      <stop offset=".56" stop-color="#70d9e9"/>
+      <stop offset="1" stop-color="#70d9e9" stop-opacity=".05"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2bbaaa" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#2bbaaa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#79bed1" stroke-width=".8" opacity=".12"/>
+    </pattern>
+    <clipPath id="canvas">
+      <rect width="1280" height="420" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <circle cx="1040" cy="220" r="350" fill="url(#glow)"/>
+    <path d="M860-100 1280 290M1090-85 1280 92" fill="none" stroke="#5cd6d5" stroke-opacity=".09" stroke-width="80"/>
+    <path d="M0 0h1280v420H0z" fill="none" stroke="#7499a7" stroke-opacity=".18" stroke-width="2"/>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="58" y="48" width="9" height="9" rx="2" fill="#b7ff65"/>
+      <text x="81" y="57" font-size="18" font-weight="700" letter-spacing="4.4" fill="#b7ff65">CS // SOFTWARE LAB</text>
+      <text x="59" y="145" font-size="24" letter-spacing="4" font-weight="600" fill="#82dce4">HELLO, I'M</text>
+
+      <text x="53" y="244" font-size="104" font-weight="800" letter-spacing="-5" fill="url(#heading)">CRISTHIAN</text>
+      <text x="53" y="337" font-size="104" font-weight="800" letter-spacing="-5" fill="url(#heading)">STORM<tspan fill="#b7ff65">.</tspan></text>
+
+      <text x="60" y="386" font-size="18" font-weight="600" letter-spacing="2.9" fill="#a3bdc8">FULL STACK  /  BACKEND  /  DATA</text>
+      <text x="1218" y="385" font-size="15" text-anchor="end" letter-spacing="3" fill="#9ab4c2">PARAGUAY · PY</text>
+    </g>
+
+    <g transform="translate(1020 218)">
+      <circle r="163" fill="none" stroke="#70d9e9" stroke-opacity=".16" stroke-width="1" stroke-dasharray="2 8"/>
+      <circle r="140" fill="none" stroke="url(#ring)" stroke-width="1.5" stroke-opacity=".68"/>
+      <circle r="119" fill="#0a1828" fill-opacity=".72" stroke="#78c5d6" stroke-opacity=".3"/>
+      <circle r="96" fill="none" stroke="#b7ff65" stroke-opacity=".13" stroke-width="24"/>
+      <path d="M-141-5A141 141 0 0 1-17-140" fill="none" stroke="#b7ff65" stroke-width="6" stroke-linecap="round"/>
+      <path d="M102 97A141 141 0 0 1 25 139" fill="none" stroke="#70d9e9" stroke-width="6" stroke-linecap="round"/>
+      <path d="M-168 0h18M150 0h18M0-168v18M0 150v18" stroke="#b7ff65" stroke-opacity=".6" stroke-width="2"/>
+      <text x="0" y="24" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="800" letter-spacing="-7" fill="#f4fbfa">CS</text>
+      <text x="0" y="59" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="4.5" fill="#b7ff65">DEV / 001</text>
+    </g>
+
+    <path d="M58 405h1164" stroke="#7893aa" stroke-opacity=".26"/>
+  </g>
+</svg>
