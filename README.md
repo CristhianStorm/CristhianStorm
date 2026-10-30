@@ -31,17 +31,24 @@ Soy **Cristhian Storm**, desarrollador Full Stack y estudiante de **Ingeniería 
 
 **Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=java,cs,python,php,javascript,html,css&theme=dark" alt="Java, C Sharp, Python, PHP, JavaScript, HTML y CSS" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/languages-static.png" />
+  <img src="./assets/technologies/languages-marquee.gif" width="100%" alt="Tecnologías en movimiento: Java, C Sharp, Python, PHP, JavaScript, HTML y CSS" />
+</picture>
 
 **Frameworks y herramientas**
 
-<img src="https://skillicons.dev/icons?i=spring,dotnet,flask,nodejs,express,git,docker,maven&theme=dark" alt="Spring, .NET, Flask, Node.js, Express, Git, Docker y Maven" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/frameworks-static.png" />
+  <img src="./assets/technologies/frameworks-marquee.gif" width="100%" alt="Tecnologías en movimiento: Spring, .NET, Flask, Node.js, Express, Git, Docker y Maven" />
+</picture>
 
 **Bases de datos**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL y SQLite" />
-
-**SQL Server · Oracle · MySQL · SQLite**
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/technologies/databases-static.png" />
+  <img src="./assets/technologies/databases-marquee.gif" width="100%" alt="Bases de datos en movimiento: MySQL, SQLite, SQL Server y Oracle" />
+</picture>
 
 </div>
 
