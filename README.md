@@ -1,34 +1,32 @@
-<!-- Perfil de GitHub de Cristhian Storm -->
+<!-- CS // SOFTWARE LAB — Perfil de GitHub de Cristhian Storm -->
 
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/identity/hero.svg" />
     <img src="./assets/identity/hero-animated.gif" width="100%" alt="Portada animada de Cristhian Storm: CS Software Lab, Full Stack Developer en Paraguay" />
   </picture>
-
-  <br />
-
-  <a href="#proyectos-seleccionados"><img alt="Ver proyectos" src="https://img.shields.io/badge/EXPLORAR_PROYECTOS-B7FF65?style=for-the-badge&labelColor=101827&color=B7FF65" /></a>
-  <a href="https://github.com/CristhianStorm?tab=repositories"><img alt="Ver repositorios" src="https://img.shields.io/badge/REPOSITORIOS-18243A?style=for-the-badge&labelColor=18243A&color=18243A" /></a>
-  <a href="#contacto"><img alt="Contacto" src="https://img.shields.io/badge/CONECTAR-2D8FBC?style=for-the-badge&labelColor=2D8FBC&color=2D8FBC" /></a>
-
-  <br /><br />
-
-  <sub><b>DESARROLLO WEB</b> &nbsp;·&nbsp; <b>BACKEND</b> &nbsp;·&nbsp; <b>BASES DE DATOS</b> &nbsp;·&nbsp; <b>AUTOMATIZACIÓN</b></sub>
+  <p>
+    <a href="#proyectos"><img alt="Ver proyectos" src="https://img.shields.io/badge/VER_PROYECTOS-B7FF65?style=for-the-badge&logo=github&logoColor=101827" /></a>
+    <a href="https://github.com/CristhianStorm?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/REPOSITORIOS-1A3348?style=for-the-badge&logo=git&logoColor=white" /></a>
+    <a href="#contacto"><img alt="Conectar" src="https://img.shields.io/badge/CONECTAR-258EAB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### `01 /` Sobre mí
+## `01 /` Hola, soy Cristhian
 
-Soy **Cristhian Storm**, desarrollador Full Stack y estudiante de **Ingeniería Informática en Paraguay**. Me gusta construir software que resuelva necesidades reales, desde una interfaz clara hasta la lógica del servidor y los datos que la sostienen.
+Soy desarrollador **Full Stack** y estudiante de **Ingeniería Informática en Paraguay**. Disfruto convertir necesidades reales en herramientas útiles: desde la interfaz que utiliza una persona hasta los servicios y las bases de datos que hacen funcionar todo.
 
-- **Lo que hago:** aplicaciones web, APIs REST, integración de sistemas y consultas SQL.
-- **Experiencia práctica:** desarrollo y soporte de sistemas académicos, automatización de procesos y generación de reportes.
-- **Lo que busco mejorar:** arquitectura de software, rendimiento, experiencia de usuario y calidad del código.
-- **También exploro:** desarrollo de videojuegos con Unity y C#.
+En mi experiencia práctica trabajo con **sistemas académicos, consultas SQL, reportes y automatización de procesos**. Me interesa especialmente mejorar aplicaciones existentes y hacer que el software sea más claro, confiable y fácil de usar.
 
-### `02 /` Tecnologías
+<p align="center">
+  <img src="./assets/identity/about-map.svg" width="100%" alt="Mi enfoque Full Stack: interfaces, backend y bases de datos conectados" />
+</p>
+
+## `02 /` Mi stack tecnológico
+
+<p>Lenguajes y herramientas con los que he trabajado en proyectos, prácticas y desarrollo de sistemas.</p>
 
 <div align="center">
 
@@ -55,66 +53,64 @@ Soy **Cristhian Storm**, desarrollador Full Stack y estudiante de **Ingeniería 
 
 </div>
 
-<br />
+<a id="proyectos"></a>
 
-<a name="proyectos-seleccionados"></a>
+## `03 /` Proyectos seleccionados
 
-### `03 /` Proyectos seleccionados
+Estos son algunos proyectos públicos que muestran cómo trabajo con desarrollo web, servicios backend y aprendizaje práctico.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01. Plataforma de tutorías</h3>
-      <p>Aplicación académica para conectar estudiantes y docentes, organizar tutorías y dar seguimiento a las sesiones.</p>
-      <p><code>Java 17</code> <code>Spring Boot</code> <code>Spring Security</code> <code>Oracle</code></p>
-      <p>Autenticación JWT, roles, foros, archivos adjuntos, reportes PDF e integración con Jitsi/JaaS.</p>
-      <a href="https://github.com/CristhianStorm/Curso-sincronico"><b>Ver repositorio ↗</b></a>
+      <a href="https://github.com/CristhianStorm/Curso-sincronico"><img src="./assets/projects/tutorias.svg" width="100%" alt="Tarjeta del proyecto Tutorías Online" /></a>
+      <p>Plataforma académica con autenticación JWT, roles, foros, archivos adjuntos, reportes PDF e integración con Jitsi/JaaS.</p>
+      <p><a href="https://github.com/CristhianStorm/Curso-sincronico"><b>Explorar proyecto ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02. API de productos</h3>
-      <p>Servicio REST para administrar un catálogo de productos y practicar persistencia, validaciones y operaciones CRUD.</p>
-      <p><code>Java 21</code> <code>Spring Boot</code> <code>JPA</code> <code>H2</code></p>
-      <p>Gestión de productos, validación de precio y stock y estadísticas del catálogo.</p>
-      <a href="https://github.com/CristhianStorm/java/tree/main/CrusoJava/curso_java-main/productoapi"><b>Explorar código ↗</b></a>
+      <a href="https://github.com/CristhianStorm/java/tree/main/CrusoJava/curso_java-main/productoapi"><img src="./assets/projects/productos.svg" width="100%" alt="Tarjeta del proyecto Product API" /></a>
+      <p>API REST de catálogo con operaciones CRUD, validaciones de precio y stock, persistencia JPA y estadísticas.</p>
+      <p><a href="https://github.com/CristhianStorm/java/tree/main/CrusoJava/curso_java-main/productoapi"><b>Explorar proyecto ↗</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03. Python Lab</h3>
-      <p>Laboratorio de ejercicios y pequeñas aplicaciones para explorar Python, servicios web y contenedores.</p>
-      <p><code>Python</code> <code>Flask</code> <code>MySQL</code> <code>Docker</code></p>
-      <p>APIs con Flask, login, Swagger UI, SQL y entornos con Docker Compose.</p>
-      <a href="https://github.com/CristhianStorm/Python"><b>Ver prácticas ↗</b></a>
+      <a href="https://github.com/CristhianStorm/Python"><img src="./assets/projects/python.svg" width="100%" alt="Tarjeta del proyecto Python Lab" /></a>
+      <p>Laboratorio de Python con Flask, autenticación, Swagger UI, consultas MySQL y entornos con Docker Compose.</p>
+      <p><a href="https://github.com/CristhianStorm/Python"><b>Explorar prácticas ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04. Web Experiments</h3>
-      <p>Experimentos de interfaces y experiencias web para mejorar diseño, interacción y desarrollo frontend.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p>Proyectos visuales como Neo Jumper y una interfaz de acceso.</p>
-      <a href="https://github.com/CristhianStorm/CristhianStorm.github.io"><b>Explorar interfaces ↗</b></a>
+      <a href="https://github.com/CristhianStorm/CristhianStorm.github.io"><img src="./assets/projects/web.svg" width="100%" alt="Tarjeta del proyecto Web Experiments" /></a>
+      <p>Experimentos con HTML, CSS y JavaScript: interfaces, interacciones visuales y proyectos como Neo Jumper.</p>
+      <p><a href="https://github.com/CristhianStorm/CristhianStorm.github.io"><b>Ver interfaces ↗</b></a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/CristhianStorm?tab=repositories"><b>Ver todos los repositorios →</b></a>
+  <a href="https://github.com/CristhianStorm?tab=repositories"><img alt="Explorar todos los repositorios" src="https://img.shields.io/badge/EXPLORAR_TODOS_LOS_REPOSITORIOS-182C3F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-### `04 /` En qué estoy enfocado
+## `04 /` Más allá de estos proyectos
 
-```text
-BUILDING   →  Aplicaciones web y servicios backend
-LEARNING   →  Arquitectura, automatización y UI/UX
-EXPLORING  →  Unity, C# y diseño de videojuegos
-```
+- **Ingeniería y arquitectura:** organización del código, APIs, seguridad y diseño de sistemas.
+- **Automatización y datos:** consultas SQL, integración de información y reportes.
+- **Diseño y creatividad:** UI/UX, prototipos y desarrollo de videojuegos con Unity y C#.
 
-<a name="contacto"></a>
+También podés ver mis [prácticas de PHP y programación orientada a objetos](https://github.com/CristhianStorm/PHP).
 
-### `05 /` Contacto
+<a id="contacto"></a>
+
+## `05 /` Conectemos
 
 <div align="center">
-  <p>¿Tenés una idea, un proyecto o simplemente querés hablar de tecnología?</p>
+  <img src="./assets/identity/footer.svg" width="100%" alt="Hagamos algo útil — CS Software Lab" />
+  <p>¿Tenés un proyecto, una idea o querés conversar sobre tecnología?</p>
   <a href="https://github.com/CristhianStorm"><img alt="Perfil de GitHub" src="https://img.shields.io/badge/GitHub-@CristhianStorm-101827?style=for-the-badge&logo=github&logoColor=white&labelColor=101827" /></a>
-  <br /><br />
-  <sub>Diseñado y desarrollado con curiosidad desde Paraguay 🇵🇾</sub>
 </div>
+
+<details>
+  <summary>Read in English</summary>
+  <p>I'm <b>Cristhian Storm</b>, a Full Stack developer and Computer Engineering student in Paraguay. I work with web applications, backend services, relational databases and academic systems. My public projects include an online tutoring platform, a product REST API, Python experiments and frontend interfaces. I'm also interested in software architecture, UI/UX, automation and game development.</p>
+</details>
+
+<p align="center"><sub>CS // SOFTWARE LAB · Built with curiosity in Paraguay 🇵🇾</sub></p>
