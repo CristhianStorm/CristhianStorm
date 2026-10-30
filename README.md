@@ -1,4 +1,5 @@
 <a name="forge-hero"></a>
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/hero-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/forge/hero-light-mobile.svg">
@@ -9,6 +10,7 @@
 <p align="center"><a href="#forge-identity">01 · Identidad</a> &nbsp; / &nbsp; <a href="#forge-technologies">02 · Tecnologías</a> &nbsp; / &nbsp; <a href="#forge-architecture">03 · Arquitectura</a> &nbsp; / &nbsp; <a href="#forge-tutorias">04 · Proyectos</a></p>
 
 <a name="forge-identity"></a>
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/identity-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/forge/identity-light-mobile.svg">
@@ -17,6 +19,7 @@
 </picture>
 
 <a name="forge-technologies"></a>
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/technologies-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/forge/technologies-light-mobile.svg">
@@ -25,6 +28,7 @@
 </picture>
 
 <a name="forge-architecture"></a>
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/architecture-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/forge/architecture-light-mobile.svg">
@@ -33,6 +37,7 @@
 </picture>
 
 <a name="forge-tutorias"></a>
+
 <a href="https://github.com/CristhianStorm/Curso-sincronico" aria-label="Abrir Tutorías online en GitHub">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/tutorias-dark-mobile.svg">
@@ -43,6 +48,7 @@
 </a>
 
 <a name="forge-productos"></a>
+
 <a href="https://github.com/CristhianStorm/java" aria-label="Abrir API de productos en GitHub">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/productos-dark-mobile.svg">
@@ -53,6 +59,7 @@
 </a>
 
 <a name="forge-python"></a>
+
 <a href="https://github.com/CristhianStorm/Python" aria-label="Abrir Laboratorio Python en GitHub">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/python-dark-mobile.svg">
@@ -63,6 +70,7 @@
 </a>
 
 <a name="forge-exploration"></a>
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/exploration-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/forge/exploration-light-mobile.svg">
@@ -73,6 +81,7 @@
 <p align="center"><a href="https://github.com/CristhianStorm/CristhianStorm.github.io">Explorar interfaces web ↗</a> &nbsp; / &nbsp; <a href="https://github.com/CristhianStorm/PHP">Explorar prácticas PHP ↗</a></p>
 
 <a name="forge-connect"></a>
+
 <a href="https://github.com/CristhianStorm?tab=repositories" aria-label="Explorar los repositorios de Cristhian Storm">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/forge/connect-dark-mobile.svg">
