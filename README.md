@@ -1,7 +1,10 @@
 <!-- Perfil de GitHub de Cristhian Storm -->
 
 <div align="center">
-  <img src="./assets/identity/hero.svg" width="100%" alt="Cristhian Storm — CS Software Lab, Full Stack Developer en Paraguay" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/identity/hero.svg" />
+    <img src="./assets/identity/hero-animated.gif" width="100%" alt="Portada animada de Cristhian Storm: CS Software Lab, Full Stack Developer en Paraguay" />
+  </picture>
 
   <br />
 
